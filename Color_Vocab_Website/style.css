@@ -20,6 +20,6 @@ h2[id="orange"] {
     color: orange;
 }
 
-h2 {
+.color-title {
     font-weight: normal;
 }
